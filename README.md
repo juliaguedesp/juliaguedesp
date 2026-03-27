@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+<img src="https://i.pinimg.com/originals/6b/6a/80/6b6a807ea0cc54f668e3364fbf1782bd.gif" width="100%"/>
+</p>
 
-<!--
-**juliaguedesp/juliaguedesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🗃️ bem vindos! 
 
-Here are some ideas to get you started:
+### 📂 resumo
+Meu nome é Julia, tenho 29 anos, sou Dev Full Stack com foco em Front End e UX/UI Design e sou de Belo Horizonte. Mudei pra área de tecnologia no fim de 2023 e estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📂 contato
+
+[![Alt text](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://www.linkedin.com/in/juliaguedesp/)
+[![Alt text](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg)](https://www.instagram.com/filmemusical/)
+
+### 📂 tecnologias que utilizo
+
+| FRONT-END | BACK-END | API | BANCOS DE DADOS | METODOLOGIAS | 
+| :----: | :----: | :----: | :----: | :----: |
+| HTML/CSS | JavaScript | REST | MySQL | Scrum |
+| React     | Node.js  | Postman | SQL | Kanban |
+| Next.js   | TypeScript | GraphQL | MongoDB | Jira |
+| Bootstrap | .NET |       |        | XP |
+| Tailwind  |          |     |        | FDD |
+
