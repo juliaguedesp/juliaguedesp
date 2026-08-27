@@ -5,7 +5,7 @@
 ## 🗃️ bem vindos! 
 
 ### 📂 resumo
-Meu nome é Julia, tenho 29 anos, sou Dev Full Stack com foco em Front End e UX/UI Design e sou de Belo Horizonte. Mudei pra área de tecnologia no fim de 2023 e estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas.
+Meu nome é Julia, tenho 29 anos, sou Dev Full Stack com foco em Front End e UX/UI Design e sou de Belo Horizonte. Mudei pra área de tecnologia no fim de 2023 e sou formada em Análise e Desenvolvimento de Sistemas pela PUC Minas.
 
 
 ### 📂 contato
